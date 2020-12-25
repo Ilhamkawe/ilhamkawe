@@ -1,28 +1,5 @@
-### Hi there its me kawe 🌀
-🌱 I’m currently learning Laravel, Node.JS, and MongoDB
-<br>
-<br>
-### About me
-☺️ Muhammad Ilham Kusumawardhana
-<br>
-✉️ muhammad.ilham.kusumawardhana@gmail.com 
-<br>
-🎓 Universitas Teknologi Yogyakarta
-<br>
-💻 hmmmm
-<br><br>
-### Languages and Tools
+### Oit Kawe here 🌀
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="figma" width="60" height="60"/> </a> 
-<!--
-**Ilhamkawe/ilhamkawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
