@@ -1,7 +1,6 @@
-### On Progress 🌀
 
-![Kawe's github stats](https://github-readme-stats.vercel.app/api?username=ilhamKawe&show_icons=true&theme=flutter)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/m-ilham-k/)) 
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamKawe&layout=compact)](https://github.com/ilhamKawe/github-readme-stats)
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamKawe"/>
 
